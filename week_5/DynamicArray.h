@@ -45,8 +45,6 @@ public:
 	bool isEmpty();
 	void print();
 	void clear();
-  
-  //todo
 	/*
 	struct iterator
 	{
